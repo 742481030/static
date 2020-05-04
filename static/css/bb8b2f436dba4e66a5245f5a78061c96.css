@@ -1,1 +1,31 @@
-@font-face{font-family:roboto;font-style:italic;font-weight:300;src:local('Roboto Light Italic'),local('Roboto-LightItalic'),url(/static/font/7m8l7tlfo-s3vkhhur0at50eavxt0g0b.ttf) format('truetype')}@font-face{font-family:roboto;font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(/static/font/olffgbtaf0xfow1gnuhf0z0eavxt0g0b.ttf) format('truetype')}@font-face{font-family:roboto;font-style:normal;font-weight:100;src:local('Roboto Thin'),local('Roboto-Thin'),url(/static/font/jzo62i39jc0gqrrbndn6nfeszw2xoq-x.ttf) format('truetype')}@font-face{font-family:roboto;font-style:normal;font-weight:300;src:local('Roboto Light'),local('Roboto-Light'),url(/static/font/hgo13k-tfspn0qi1sfdufacwcynf_cdx.ttf) format('truetype')}@font-face{font-family:roboto;font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),url(/static/font/zn7gbfwfmp4ua6ar0hcolq.ttf) format('truetype')}@font-face{font-family:roboto;font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(/static/font/rxzjdnzeo3r5zsexge8uuacwcynf_cdx.ttf) format('truetype')}@font-face{font-family:roboto condensed;font-style:normal;font-weight:300;src:local('Roboto Condensed Light'),local('RobotoCondensed-Light'),url(/static/font/b9qbgl0imzfdspmcxce8nl3qfsxbldin.ttf) format('truetype')}@font-face{font-family:roboto condensed;font-style:normal;font-weight:400;src:local('Roboto Condensed'),local('RobotoCondensed-Regular'),url(/static/font/zd2e9abxlfgsr9g3yk2msdr-ewpshsw8.ttf) format('truetype')}
+@font-face {
+	font-family:roboto;font-style:italic;font-weight:300;src:local('Roboto Light Italic'),local('Roboto-LightItalic'),url(https://cdn.jsdelivr.net/gh/742481030/static@website1/static/font/7m8l7tlfo-s3vkhhur0at50eavxt0g0b.ttf) format('truetype')
+}
+
+@font-face {
+	font-family:roboto;font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(https://cdn.jsdelivr.net/gh/742481030/static@website1/static/font/olffgbtaf0xfow1gnuhf0z0eavxt0g0b.ttf) format('truetype')
+}
+
+@font-face {
+	font-family:roboto;font-style:normal;font-weight:100;src:local('Roboto Thin'),local('Roboto-Thin'),url(https://cdn.jsdelivr.net/gh/742481030/static@website1/static/font/jzo62i39jc0gqrrbndn6nfeszw2xoq-x.ttf) format('truetype')
+}
+
+@font-face {
+	font-family:roboto;font-style:normal;font-weight:300;src:local('Roboto Light'),local('Roboto-Light'),url(https://cdn.jsdelivr.net/gh/742481030/static@website1/static/font/hgo13k-tfspn0qi1sfdufacwcynf_cdx.ttf) format('truetype')
+}
+
+@font-face {
+	font-family:roboto;font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),url(https://cdn.jsdelivr.net/gh/742481030/static@website1/static/font/zn7gbfwfmp4ua6ar0hcolq.ttf) format('truetype')
+}
+
+@font-face {
+	font-family:roboto;font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(https://cdn.jsdelivr.net/gh/742481030/static@website1/static/font/rxzjdnzeo3r5zsexge8uuacwcynf_cdx.ttf) format('truetype')
+}
+
+@font-face {
+	font-family:roboto condensed;font-style:normal;font-weight:300;src:local('Roboto Condensed Light'),local('RobotoCondensed-Light'),url(https://cdn.jsdelivr.net/gh/742481030/static@website1/static/font/b9qbgl0imzfdspmcxce8nl3qfsxbldin.ttf) format('truetype')
+}
+
+@font-face {
+	font-family:roboto condensed;font-style:normal;font-weight:400;src:local('Roboto Condensed'),local('RobotoCondensed-Regular'),url(https://cdn.jsdelivr.net/gh/742481030/static@website1/static/font/zd2e9abxlfgsr9g3yk2msdr-ewpshsw8.ttf) format('truetype')
+}
